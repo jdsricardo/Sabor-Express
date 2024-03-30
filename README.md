@@ -1,0 +1,1 @@
+Programa em Python com a intenção de cadastrar restaurantes, lista-los e exibilos no console. Código escrito com base no curso "criando primeira aplicação em Python" da Alura, com a intenção de solidificar os conhecimentos de programação nesta linguagem, sem utilização de orientação a objetos.
